@@ -9,6 +9,7 @@
 <img src="https://komarev.com/ghpvc/?username=nipunsamintha&label=PROFILE%20VIEWS&color=00A3FF&style=for-the-badge" alt="views"/>
 <a href="https://twitter.com/nipunsamintha"><img src="https://img.shields.io/twitter/follow/nipunsamintha?logo=twitter&style=for-the-badge&color=1DA1F2" alt="twitter"/></a>
 <a href="https://www.linkedin.com/in/nipunsamintha/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
+<a href="https://www.instagram.com/nipun.samintha/"><img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram"/></a>
 <a href="mailto:nipunsamintha1994@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
 
 <br/><br/>
@@ -59,6 +60,20 @@ Custom SMS gateways, QuickBooks, Sage, Bybit, Binance, Stripe, Payhere, Koko & o
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+**🛰️ Vehicle & Fleet Tracking**
+Real-time GPS vehicle tracking platforms — live device ingestion (TCP/SinoTrack protocols), dispatch, geofencing, and admin/permission consoles on cloud VPS infrastructure.
+
+</td>
+<td width="50%" valign="top">
+
+**📇 CRM & Customer Systems**
+Customer relationship & loyalty platforms — enrollment, points tracking, campaign management, DND-aware bulk SMS, and Excel-exportable reporting suites.
+
+</td>
+</tr>
 </table>
 
 ---
@@ -70,6 +85,63 @@ Custom SMS gateways, QuickBooks, Sage, Bybit, Binance, Stripe, Payhere, Koko & o
 | 🏦 **Financial & Core** | Micro Finance Systems · Banking Systems · HRIS · Payroll · Inventory · Invoicing |
 | 🏥 **Healthcare** | Hospital Management Systems |
 | 📦 **E-commerce & Logistics** | Multi-branch Courier Tracking · Order Management Bots |
+| 🛰️ **Fleet & Vehicle Tracking** | Real-Time GPS Vehicle Tracking (VMS) · Dispatch & Geofencing Consoles |
+| 📇 **CRM & Loyalty** | Customer Loyalty & Points Engines · Campaign & Bulk SMS CRM Tools |
+
+---
+
+### 🚀 Featured Projects
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+#### 🛰️ VMS — Vehicle Tracking System
+Real-time GPS fleet tracking platform built on Laravel 11, deployed on a DigitalOcean VPS. Ingests live location data from SinoTrack GPS hardware over a custom TCP protocol via a dedicated Node.js listener, with dispatch, notifications, and role-based admin modules.
+`Laravel 11` `Node.js` `TCP/GPS` `Nginx` `PM2`
+
+</td>
+<td width="50%" valign="top">
+
+#### 📇 SAGE — Order Management & CRM
+Full-stack order management and customer loyalty platform for a multi-branch retail brand. Features a loyalty points engine, passbook ledger, DND-aware bulk SMS, staff/supplier management, and a full Excel-exportable reporting suite.
+`React` `Laravel` `MySQL`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🏦 Microfinance & Loan Management Suites
+Multiple CodeIgniter-based loan/microfinance platforms handling collections, installment scheduling, sales performance dashboards, and automated SMS reminder pipelines — optimized for high-volume report generation.
+`CodeIgniter` `MySQL` `SMS Gateway`
+
+</td>
+<td width="50%" valign="top">
+
+#### 🧾 HRIS & Payroll System
+Laravel-based HR and payroll backend with scheduled payroll processing, automated token rotation, leave/attendance adjustments, and secure API integrations — running on cPanel cron infrastructure.
+`Laravel` `Artisan Scheduler` `REST API`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+#### 🍫 E-commerce Storefront Redesign
+Complete frontend redesign of a handcrafted-goods e-commerce platform with a bespoke boutique design system, custom typography, and multi-currency cart/checkout flows.
+`Next.js 15` `TypeScript` `Tailwind CSS` `Laravel`
+
+</td>
+<td width="50%" valign="top">
+
+#### 💰 Centralized Financial Accounting System
+Group-wide accounting platform spanning Group → Company → Location → Department hierarchies, with consolidated general ledgers and trial balances at every organizational level.
+`System Design` `Laravel` `MySQL`
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -116,6 +188,46 @@ Custom SMS gateways, QuickBooks, Sage, Bybit, Binance, Stripe, Payhere, Koko & o
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=nipunsamintha&theme=tokyo-night&hide_border=true" width="100%"/>
 </div>
 
+<div align="center">
+
+**⏱️ Weekly Development Breakdown**
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=nipunsamintha&theme=tokyonight&hide_border=true&layout=compact" alt="wakatime"/>
+
+</div>
+
+<div align="center">
+
+**📅 Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nipunsamintha/nipunsamintha/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nipunsamintha/nipunsamintha/output/github-contribution-grid-snake.svg" />
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/nipunsamintha/nipunsamintha/output/github-contribution-grid-snake.svg" width="100%"/>
+</picture>
+
+<sub>Generated via <a href="https://github.com/Platane/snk">Platane/snk</a> — requires a one-time GitHub Actions workflow to populate</sub>
+
+</div>
+
+<div align="center">
+
+**🧊 Isometric Contribution Calendar**
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=nipunsamintha&theme=github-compact&hide_border=true&area=true" width="100%" alt="isometric calendar"/>
+
+</div>
+
+<div align="center">
+
+**🏆 Profile Summary Cards**
+
+<img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nipunsamintha&theme=tokyonight" />
+<img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nipunsamintha&theme=tokyonight" />
+<img height="195em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nipunsamintha&theme=tokyonight" />
+
+</div>
+
 ---
 
 ### 💬 Connect With Me
@@ -124,6 +236,7 @@ Custom SMS gateways, QuickBooks, Sage, Bybit, Binance, Stripe, Payhere, Koko & o
 
 <a href="https://www.linkedin.com/in/nipunsamintha/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://twitter.com/nipunsamintha" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://www.instagram.com/nipun.samintha/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://medium.com/@nipunsamintha" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 <a href="https://dev.to/nipunsamintha" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/></a>
 <a href="https://www.facebook.com/nipunsamintha94" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
