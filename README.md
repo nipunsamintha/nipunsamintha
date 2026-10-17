@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:00A3FF&height=260&section=header&text=Nipun%20Samintha&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Enterprise%20System%20Architect%20%E2%80%A2%20Full-Stack%20%26%20Mobile%20Engineer&descAlignY=62&descSize=18&animation=fadeIn&stroke=00A3FF&strokeWidth=1" width="100%" alt="Nipun Samintha"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0F2027,50:203A43,100:00A3FF&height=260&section=header&text=Nipun%20Samintha&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Enterprise%20System%20Architect%20%E2%80%A2%20Full-Stack%20%E2%80%A2%20Mobile%20Engineer&descAlignY=62&descSize=18&animation=fadeIn&stroke=00A3FF&strokeWidth=1" width="100%" alt="Nipun Samintha"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=900&color=00A3FF&center=true&vCenter=true&width=760&lines=Building+software+for+Sri+Lanka's+leading+brands;Web+%E2%80%A2+Android+%E2%80%A2+iOS+%E2%80%A2+Enterprise+Systems;Payment+Gateways+%26+Crypto+Integrations;Laravel+%E2%80%A2+React+%E2%80%A2+Next.js+%E2%80%A2+MERN" alt="Typing SVG"/>
 
