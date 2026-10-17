@@ -36,7 +36,15 @@ I'm **Nipun Samintha**, an **Enterprise System Architect** from **Sri Lanka 🇱
 </td>
 <td width="38%" valign="top" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nipunsamintha&layout=donut&theme=tokyonight&hide_border=true&langs_count=6&card_width=300" alt="Top languages"/>
+**⚡ Quick Facts**
+
+| | |
+|---|---|
+| 🎯 Focus | Enterprise Systems |
+| 🏭 Industries | Finance · Retail · FMCG · Logistics |
+| ⚙️ Core | Laravel · CodeIgniter · React |
+| 🌍 Clients | Sri Lanka & Global |
+| 🟢 Status | Open to Projects |
 
 </td>
 </tr>
@@ -176,7 +184,7 @@ Centralized **Group Financial Accounting System** — Group → Company → Loca
 
 <img src="https://skillicons.dev/icons?i=php,laravel,js,ts,react,nextjs,nodejs,tailwind,html,css&theme=dark&perline=10" alt="Languages and frameworks"/>
 <br/><br/>
-<img src="https://skillicons.dev/icons?i=mysql,mariadb,postgres,redis,nginx,linux,ubuntu,docker,git,github,githubactions,postman,vscode&theme=dark&perline=13" alt="Databases and tools"/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,redis,nginx,linux,ubuntu,docker,git,github,githubactions,postman,vscode&theme=dark&perline=12" alt="Databases and tools"/>
 
 </div>
 
